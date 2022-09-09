@@ -43,24 +43,22 @@
 							<span class="icon-ios-arrow-down"></span>
 						</a>
 						<ul class="fade-in">
-                        <li>
+							<li>
 								<a href="members.php">Enlist Members</a>
 							</li>
 							<li>
 								<a href="login.php">Want to be Member</a>
 							</li>
-							<li> 
-								<a href ="search.php">Search A Member</li>
 							<li>
-								<a href="online-portal/login.php">Online Portal</a>
+								<a href="sample-page.php">Sample Page</a>
 							</li>
 						</ul>
 					</li>
 					<li class="">
-						<a href="contact.php">Contact</a>
+						<a href="gallery.php">Gallery</a>
 					</li>
 					<li class="">
-						<a href="donation.php">Donation</a>
+						<a href="contact.php">Contact</a>
 					</li>
             </ul>
         </div>
@@ -75,27 +73,27 @@
 		</div>
 	</div>
     <div class="holder gswa-contact">
-            <div class="grid-12 gswa-page-description"></div>
-            "<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7350.82540010438!2d89.50042629999999!3d22.898143900000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1662742457612!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <div class="grid-12 gswa-page-description">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur maiores impedit in animi illo? Nobis iusto perspiciatis accusantium, ipsum consequuntur aperiam est sit, voluptatibus accusamus corporis perferendis quae, temporibus magnam.</div>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d14701.804574661635!2d89.50326690000001!3d22.896725000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1642359085006!5m2!1sen!2sbd" class="grid-8 width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy">
 	            <img src="images/" alt="">
             </iframe>
         <div class="grid-4">
             <h3><i class="icon-map"> </i> Contact Information</h3>
             <br>
-            <p style=" margin-top:20px; font-size:18px; font-family:Time New Roman">
-                Hasanur Rahman Rocky
+            <p>
+                LSH Hall, 307 Room
                 <br> Department of
                 <br> Computer Science & Engineering
-                <br> Khulna University Of Engineering & Technology,Khulna.
-                <br> Lalan Shah Hall,KUET,Khulna
+                <br> Khulna University of Engineering And Technology
+                <br> Khulna-9203
                 <br>
                 <br> Phone: (+880) 1774008412
-                <br> Email: rocky.cse17kuet@gmail.com</p>
+                <br> Email: rocky1707096@stud.kuet.ac.bd</p>
         </div>
     </div>
     <div class="holder-fluid gswa-footer">
         <div class="holder">
-            <p>&copy; Copyright 2022 - Gangachara Student Welfare Association (GSWA)</p>
+            <p>&copy; Copyright 2020 - Gangachara Student Welfare Association (GSWA)</p>
             <br>
             <h5>Follow Us On</h5>
             <div class="list-inline">
